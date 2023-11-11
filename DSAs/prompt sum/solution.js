@@ -20,3 +20,5 @@ function sumNumbers(string) {
 
 let result = sumNumbers("1, 2, 3");
 console.log(result);
+
+module.exports = { sumNumbers };
