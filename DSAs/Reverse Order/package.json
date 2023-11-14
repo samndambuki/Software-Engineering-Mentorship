@@ -1,0 +1,15 @@
+{
+  "name": "reverse-order",
+  "version": "1.0.0",
+  "description": "// Given an integer , return an integer that is reverse ordering the numbers // 500 = 5 // -56 = -65 // -90 = -9 // 91 = 19",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

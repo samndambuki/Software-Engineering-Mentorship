@@ -22,3 +22,5 @@ function reverseInteger(integer) {
 console.log(reverseInteger(500));
 console.log(reverseInteger(-56));
 console.log(reverseInteger(-90));
+
+module.exports = { reverseInteger };
